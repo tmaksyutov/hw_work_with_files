@@ -4,8 +4,9 @@ import java.util.ArrayList;
 
 public class Order {
     public int orderID;
-    public String shopperName;
-    public String shopperEmail;
+    public String FirstName;
+    public String LastName;
+    public String Email;
     public ArrayList<Content> contents;
     public boolean orderCompleted;
     public static class Content {

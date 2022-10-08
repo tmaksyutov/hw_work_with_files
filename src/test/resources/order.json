@@ -1,15 +1,16 @@
 {
-  "orderID": 12345,
-  "shopperName": "Тимур Максютов",
-  "shopperEmail": "maksyutov@example.com",
+  "orderID": 777,
+  "FirstName": "Timur",
+  "LastName": "Maksyutov",
+  "Email": "tmaksyutov@example.com",
   "contents": [
     {
-      "productID": 34,
+      "productID": 99,
       "productName": "Товар 1",
       "quantity": 1
     },
     {
-      "productID": 56,
+      "productID": 100,
       "productName": "Товар 2",
       "quantity": 3
     }
